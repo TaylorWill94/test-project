@@ -1,0 +1,6 @@
+.nav-container {
+  color: grey;
+
+  display: grid;
+  grid-template-rows: 3;
+}
